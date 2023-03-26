@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1554968502 source:d:\joaqui escuela\universidad\c++\lab05 polimorfismo empresa de autos\carrent.cpp
+	"CarRent.h"
+	<cstring>
+	<iostream>
+
+1554936824 d:\joaqui escuela\universidad\c++\lab05 polimorfismo empresa de autos\carrent.h
+	"Servicio.h"
+	<iostream>
+
+1554983965 d:\joaqui escuela\universidad\c++\lab05 polimorfismo empresa de autos\servicio.h
+
+1554984677 source:d:\joaqui escuela\universidad\c++\lab05 polimorfismo empresa de autos\main.cpp
+	<iostream>
+	"Servicio.h"
+	"CarRent.h"
+	"Taxi.h"
+	"ServiciosDiarios.h"
+
+1554983965 source:d:\joaqui escuela\universidad\c++\lab05 polimorfismo empresa de autos\servicio.cpp
+	"Servicio.h"
+	<cstring>
+
+1554937831 source:d:\joaqui escuela\universidad\c++\lab05 polimorfismo empresa de autos\taxi.cpp
+	"Taxi.h"
+	<cstring>
+	<iostream>
+
+1554937830 d:\joaqui escuela\universidad\c++\lab05 polimorfismo empresa de autos\taxi.h
+	"Servicio.h"
+	<iostream>
+
+1554984117 source:d:\joaqui escuela\universidad\c++\lab05 polimorfismo empresa de autos\serviciosdiarios.cpp
+	"ServiciosDiarios.h"
+	"Servicio.h"
+
+1554984330 d:\joaqui escuela\universidad\c++\lab05 polimorfismo empresa de autos\serviciosdiarios.h
+	"Servicio.h"
+
